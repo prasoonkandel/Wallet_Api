@@ -1,3 +1,4 @@
+// this is main file aka app.js run this file to start server
 const express = require("express");
 const cors = require("cors");
 const jwt = require("jsonwebtoken");
